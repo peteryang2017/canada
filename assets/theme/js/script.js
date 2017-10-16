@@ -287,7 +287,7 @@
                                     videoURL : result[1],
                                     containment : 'self',
                                     showControls : false,
-                                    mute : true
+                                    mute : false
                                 }, params));
                         }
                         break;
